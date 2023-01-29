@@ -1,0 +1,9 @@
+name: EmbarkkCore
+version: '0.0.1'
+main: me.outspending.embarkkcore.EmbarkkCore
+api-version: 1.19
+depend: [ FastAsyncWorldEdit ]
+softdepend: [ PlaceholderAPI ]
+authors: [ Outspending ]
+description: The Core plugin for the Prison Server Embarkk
+website: https://discord.gg/gfUuT4BmKY
